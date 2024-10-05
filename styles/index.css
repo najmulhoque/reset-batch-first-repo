@@ -1,0 +1,11 @@
+.navbar{
+  background-color: antiquewhite;
+  display: flex;
+
+}
+.navbar a {
+    padding: 10px;
+    margin: auto;
+    font-size: 30px;
+   
+}
