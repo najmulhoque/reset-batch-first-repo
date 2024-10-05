@@ -1,6 +1,13 @@
+body{
+    background-image: url(../image/pexels-sametkaplan-18970044.jpg);
+    background-size:  auto;
+    background-repeat: no-repeat;
+}
+
 .navbar{
   background-color: antiquewhite;
   display: flex;
+  
 
 }
 .navbar a {
